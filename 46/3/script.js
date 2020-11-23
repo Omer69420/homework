@@ -1,7 +1,7 @@
 let animal = {
     species: "Cat",
     age: 1,
-    name: "Pamuk"
+    name: "Bertil"
 };
 
 console.log(animal);
