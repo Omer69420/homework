@@ -12,3 +12,10 @@
 // 1
 // 1
 // 6
+
+let i = 0;
+
+while(i != 6) {
+    i = Math.round(Math.random()*10);
+    console.log(i);
+}
